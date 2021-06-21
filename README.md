@@ -30,6 +30,7 @@
 
 ### Capitulo 6
 
+![image](https://user-images.githubusercontent.com/85526684/122821245-36bfb380-d2a2-11eb-8b1b-ebdb9fd5c6f8.png)
 
 ## 3. Explicación y Resolución de ejercicios o problemas
 
