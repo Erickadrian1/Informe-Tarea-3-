@@ -24,6 +24,17 @@
 
 ### Capitulo 5
 
+
+
+
+
+### Capitulo 6
+
+
+## 3. Explicación y Resolución de ejercicios o problemas
+
+### Ejercicios Capitulo 5
+
 ![1](https://user-images.githubusercontent.com/85208164/122811028-a24f5400-d295-11eb-99eb-122a43940d70.png)
 ![2](https://user-images.githubusercontent.com/85208164/122811033-a2e7ea80-d295-11eb-8c9c-03ddb598b680.png)
 ![3](https://user-images.githubusercontent.com/85208164/122811036-a2e7ea80-d295-11eb-81f1-ebc710726d4d.png)
@@ -55,15 +66,6 @@
 ![29](https://user-images.githubusercontent.com/85208164/122811110-b1ce9d00-d295-11eb-97ba-1385ba50d998.png)
 ![30](https://user-images.githubusercontent.com/85208164/122811113-b2673380-d295-11eb-9210-64027008d98b.png)
 ![31](https://user-images.githubusercontent.com/85208164/122811117-b2ffca00-d295-11eb-8d4a-5660f487512b.png)
-
-
-
-### Capitulo 6
-
-
-## 3. Explicación y Resolución de ejercicios o problemas
-
-### Ejercicios Capitulo 5
 
 
 ### Ejercicios Capitulo 6
