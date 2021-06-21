@@ -76,6 +76,12 @@
 ## 4. Video
 
 
+Parte 1 del video 
+https://www.youtube.com/watch?v=9jDSmmupGs4
+
+Parte 2 del video 
+https://www.youtube.com/watch?v=cpBWMVdZm_k
+
 
 ## 5. Conclusiones
 
