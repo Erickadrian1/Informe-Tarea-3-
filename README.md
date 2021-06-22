@@ -68,6 +68,11 @@
 ![29](https://user-images.githubusercontent.com/85208164/122811110-b1ce9d00-d295-11eb-97ba-1385ba50d998.png)
 ![30](https://user-images.githubusercontent.com/85208164/122811113-b2673380-d295-11eb-9210-64027008d98b.png)
 ![31](https://user-images.githubusercontent.com/85208164/122811117-b2ffca00-d295-11eb-8d4a-5660f487512b.png)
+![A](https://user-images.githubusercontent.com/84588860/122864910-1700ad80-d2eb-11eb-937c-51bf5890db0d.jpeg)
+![B](https://user-images.githubusercontent.com/84588860/122864922-19fb9e00-d2eb-11eb-9a8f-b4dbd0c58331.jpeg)
+![C](https://user-images.githubusercontent.com/84588860/122864923-1a943480-d2eb-11eb-9c98-e00bdf2b56c2.jpeg)
+![D](https://user-images.githubusercontent.com/84588860/122864924-1b2ccb00-d2eb-11eb-9621-45931936646f.jpeg)
+![E](https://user-images.githubusercontent.com/84588860/122864927-1c5df800-d2eb-11eb-8fba-d28c560b3ad0.jpeg)
 
 
 ### Ejercicios Capitulo 6
