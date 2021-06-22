@@ -19,6 +19,23 @@
 
 ## 1. Objetivos
 
+### Generales 
+
+•	Identificar cuando un circuito esta en paralelo o en serie y examinar que reglas rigen la operación de cada uno. 
+
+### Especificos 
+
+•	Conocer que establece de la ley de voltaje de Kirchhoff y cuán importante es esta en la electrónica. 
+
+•	Conocer las diferencias que existe con los voltajes en un circuito en paralelo y en un circuito en serie. 
+
+•	Identificar el funcionamiento de un amperímetro y que sucede con los efectos de carga 
+
+•	Conocer que establece la Ley de corriente de Kirchhoff y los beneficios que ha traído a la electrónica 
+
+•	Identificar el funcionamiento de los resistores tanto en circuitos paralelos como en serie.
+
+•	Aprender a usar las diferentes ecuaciones que existen para obtener voltaje, resistencia y corriente dependiendo el circuito que se presente.
 
 ## 2. Marco Teorico (Resumen)
 
@@ -77,6 +94,22 @@
 
 ### Ejercicios Capitulo 6
 
+![F](https://user-images.githubusercontent.com/84588860/122866983-79a77880-d2ee-11eb-8a8a-50e1bb2f9494.jpeg)
+![G](https://user-images.githubusercontent.com/84588860/122866985-7ad8a580-d2ee-11eb-9d06-97c4318a753f.jpeg)
+![H](https://user-images.githubusercontent.com/84588860/122866987-7b713c00-d2ee-11eb-9302-49993ce61776.jpeg)
+![I](https://user-images.githubusercontent.com/84588860/122866992-7c09d280-d2ee-11eb-8616-79b116a5c99c.jpeg)
+![J](https://user-images.githubusercontent.com/84588860/122866994-7c09d280-d2ee-11eb-936b-b224af784136.jpeg)
+![K](https://user-images.githubusercontent.com/84588860/122867079-98a60a80-d2ee-11eb-9de2-efeb360e8770.jpeg)
+![L](https://user-images.githubusercontent.com/84588860/122867091-9b086480-d2ee-11eb-8022-14ed4bcbc153.jpeg)
+![M](https://user-images.githubusercontent.com/84588860/122867093-9ba0fb00-d2ee-11eb-8797-e8830f030c32.jpeg)
+![N](https://user-images.githubusercontent.com/84588860/122867183-ba06f680-d2ee-11eb-861e-2a02017fb881.jpeg)
+![O](https://user-images.githubusercontent.com/84588860/122867187-ba9f8d00-d2ee-11eb-94cd-5a701a918899.jpeg)
+![P](https://user-images.githubusercontent.com/84588860/122867190-bb382380-d2ee-11eb-9ab8-0d969215f03b.jpeg)
+![Q](https://user-images.githubusercontent.com/84588860/122867194-bbd0ba00-d2ee-11eb-80d0-500a3f110678.jpeg)
+![R](https://user-images.githubusercontent.com/84588860/122867198-bd9a7d80-d2ee-11eb-8bd5-754d0448b0c6.jpeg)
+![S](https://user-images.githubusercontent.com/84588860/122867201-bd9a7d80-d2ee-11eb-801d-53577083d84e.jpeg)
+![T](https://user-images.githubusercontent.com/84588860/122867205-bffcd780-d2ee-11eb-963f-048f7db0c140.jpeg)
+![U](https://user-images.githubusercontent.com/84588860/122867206-c0956e00-d2ee-11eb-884d-440b95870289.jpeg)
 ![19](https://user-images.githubusercontent.com/85526684/122844158-a9db2100-d2c6-11eb-8c6f-f9ba9d280c5e.png)
 ![20](https://user-images.githubusercontent.com/85526684/122844422-41d90a80-d2c7-11eb-84b6-e20d570e2891.png)
 ![21](https://user-images.githubusercontent.com/85526684/122844779-ff63fd80-d2c7-11eb-94e9-f50bb9d0c8f9.png)
@@ -117,6 +150,18 @@ https://www.youtube.com/watch?v=cpBWMVdZm_k
 
 
 ## 5. Conclusiones
+
+•	Al desarrollar los ejercicios vimos la importancia que tiene aprender a identificar cuando un circuito se encuentra en paralelo y cuando se encuentra en serie ya que existen muchas diferencias entre estos dos tipos de circuitos.
+
+•	Aprendimos que la ley de voltajes de Kirchhoff es una de las más importantes en la electricidad junto con la ley de corrientes de Kirchhoff y ambas nos facilitan la resolución de un circuito para poder encontrar la corriente, voltaje y resistencias adecuadas.
+
+•	Observamos que los voltajes en un circuito en paralelo y en un circuito en serie funcionan de manera diferente ya que en un circuito en paralelo el voltaje es el mismo para todos los lazos mientras que en un circuito en serie el voltaje se calcula como la suma o diferencia de cada una de las fuentes individuales.
+
+•	Analizamos como es el funcionamiento de un amperímetro y aprendimos que todos los instrumentos sin importar el tipo, cargan al circuito en algún grado y este efecto se conoce como carga del medidor. 
+
+•	Al resolver varios circuitos observamos que existen múltiples formas de encontrar los componentes de un circuito y tenemos que aprender a identificar que ecuación nos resulta más fácil para poder resolver.
+
+
 
 
 
